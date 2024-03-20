@@ -1,0 +1,14 @@
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\bin\Debug\net6.0\Library.deps.json
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\bin\Debug\net6.0\Library.dll
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\bin\Debug\net6.0\Library.pdb
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\obj\Debug\net6.0\Library.dll
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\obj\Debug\net6.0\refint\Library.dll
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\obj\Debug\net6.0\Library.pdb
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+C:\Users\Diak\..fjd\Második_félév\asztali_alkalmazasok\2024-03-13\Haziallatok\Library\obj\Debug\net6.0\ref\Library.dll
